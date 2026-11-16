@@ -1,9 +1,9 @@
 <div align="center">
   <br>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/handsontable/handsontable/develop/resources/handsontable-logo-black.svg"/>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/handsontable/handsontable/develop/resources/handsontable-logo-white.svg"/>
-    <img width="300" alt="Handsontable" src="https://raw.githubusercontent.com/handsontable/handsontable/develop/resources/handsontable-logo-black.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/handsontable/.github/master/profile/assets/handsontable-logo.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/handsontable/.github/master/profile/assets/handsontable-logo-white.svg"/>
+    <img width="300" alt="Handsontable" src="https://raw.githubusercontent.com/handsontable/.github/master/profile/assets/handsontable-logo.svg"/>
   </picture>
   <br><br>
   <p>We build the data grid and the spreadsheet engine behind data-heavy business apps.</p>
